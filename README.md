@@ -1,10 +1,17 @@
 # SSD-based Object Detection in PyTorch
 
 서강대학교 현대모비스 SW 프로그램에서 진행한 인공지능 프로젝트입니다.
+
 Jetson nano를 이용해 pre-trained network를 fine tuning시켜 차량 및 신호등 인식을 구현하였습니다.
 
 
-https://www.youtube.com/watch?v=jYsIBuAgdao
+[![](https://user-images.githubusercontent.com/88009645/142014345-6770e0ae-6e12-4b04-b4c7-d6d3c07a041f.JPG)](https://www.youtube.com/watch?v=jYsIBuAgdao)
+
+
+### https://www.youtube.com/watch?v=jYsIBuAgdao
+
+
+
 
 
 This repo implements [SSD (Single Shot MultiBox Detector)](https://arxiv.org/abs/1512.02325) in PyTorch for object detection, using MobileNet backbones.  It also has out-of-box support for retraining on Google Open Images dataset.  
